@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e8b6425c.css",
-    "main.js": "/static/js/main.abfaf969.js",
+    "main.js": "/static/js/main.0c7ddcb8.js",
     "static/js/787.0f15b36d.chunk.js": "/static/js/787.0f15b36d.chunk.js",
     "static/media/raivn-logo.png": "/static/media/raivn-logo.fd5d2855eadcff58ccf8.png",
     "static/media/mobile_intelligence_lab_logo.png": "/static/media/mobile_intelligence_lab_logo.c538dcbb36fcbb434f0a.png",
@@ -13,11 +13,11 @@
     "static/media/spark.jpeg": "/static/media/spark.ec6564948d8e05f85927.jpeg",
     "index.html": "/index.html",
     "main.e8b6425c.css.map": "/static/css/main.e8b6425c.css.map",
-    "main.abfaf969.js.map": "/static/js/main.abfaf969.js.map",
+    "main.0c7ddcb8.js.map": "/static/js/main.0c7ddcb8.js.map",
     "787.0f15b36d.chunk.js.map": "/static/js/787.0f15b36d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8b6425c.css",
-    "static/js/main.abfaf969.js"
+    "static/js/main.0c7ddcb8.js"
   ]
 }
