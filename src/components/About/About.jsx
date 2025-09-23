@@ -11,15 +11,16 @@ const About = () => {
 
         <div className="about__data">
           <p className="about__description">
-            Currently working as a teaching assistant and previously a research assistant under Prof. Franzi Roesner at the Security and Privacy Lab, I am deeply interested in AI/ML and software development.
+          I’m passionate about software development and enjoy exploring a variety of research areas at the intersection of AI, computer vision, and robotics.
           </p>
 
           <p className="about__description">
-            I'm excited to share a collection of projects that reflect both my academic journey and personal exploration. These include my past hackathon projects, other contributions, and an ongoing UW CIRCLE web app that is set to launch in mid-July.
+            I'm excited to share a collection of projects that reflect both my academic journey and personal exploration.
           </p>
 
           <p className="about__description">
-            In addition to my technical work, I run a YouTube channel where I solve Leetcode questions and provide explanations to help beginners improve their problem-solving skills.
+          Beyond my technical projects, I also run a <strong>YouTube channel</strong> where I solve LeetCode problems and break them down into approachable explanations to help beginners
+          strengthen their problem-solving skills.
           </p>
         </div>
         

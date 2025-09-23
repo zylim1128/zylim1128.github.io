@@ -30,7 +30,7 @@ const experience = [
     link: "https://netlab.cs.washington.edu/",
   },
   {
-    time: "June 2024 - Present",
+    time: "June 2024 - December 2024",
     title: "ML Research Assistant",
     company: "RAIVN Lab UW",
     logo: ravinLogo,
@@ -40,12 +40,12 @@ const experience = [
     link: "https://peter-sushko.github.io/RealEdit/",
   },
   {
-    time: "June 2023 - Present",
+    time: "June 2023 - June 2025",
     title: "Teaching Assistant",
     company: "Paul G. Allen School of Computer Science and Engineering",
     logo: uwCSE,
     description: [
-      "7+ quarters of experience teaching probability and Data Structures courses for CS majors. Recognized for excellent teaching awards in year 2023-24",
+      "8 quarters of experience teaching probability and Data Structures courses for CS majors. Recognized for excellent teaching awards in year 2023-24",
     ],
     link: "https://courses.cs.washington.edu/courses/cse312/24au/",
   },
