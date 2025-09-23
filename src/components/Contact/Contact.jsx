@@ -24,7 +24,7 @@ const data = [
     label: "GitHub",
   },
   {
-    link: "/docs/ZhiYang-Resume.pdf",
+    link: "/docs/ZhiYang_Resume.pdf",
     icon: <ArticleIcon />,
     label: "Resume",
   },

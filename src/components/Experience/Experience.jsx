@@ -5,17 +5,39 @@ import uwCSE from "../../assets/uwcse.jpg";
 import uwSecLab from "../../assets/uw_seclab.png";
 import sparkLogo from "../../assets/spark.jpeg";
 import uwCircle from "../../assets/uwcircle.png";
+import awsLogo from "../../assets/aws_logo.png";
+import networkLogo from "../../assets/mobile_intelligence_lab_logo.png";
 
 const experience = [
+  {
+    time: "June 2025 - September 2025",
+    title: "Software Developer Intern",
+    company: "Amazon Web Services(AWS)",
+    logo: awsLogo,
+    description: [
+      "Integrating Database Insights into Amazon Neptune(GraphDb)",
+    ],
+    link: "https://aws.amazon.com/neptune/",
+  },
+  {
+    time: "March 2025 - Present",
+    title: "Research Assistant",
+    company: "Mobile Intelligence Lab",
+    logo: networkLogo,
+    description: [
+      "Working on Computer Vision part of the research; co-authored a paper currently under review for CHI 2026",
+    ],
+    link: "https://netlab.cs.washington.edu/",
+  },
   {
     time: "June 2024 - Present",
     title: "ML Research Assistant",
     company: "RAIVN Lab UW",
     logo: ravinLogo,
     description: [
-      "Developed and evaluated a machine learning model for image editing using REALEDIT; co-authored a paper currently under review for CVPR 2025",
+      "Developed and evaluated a machine learning model for image editing using REALEDIT",
     ],
-    link: "https://raivn.cs.washington.edu/",
+    link: "https://peter-sushko.github.io/RealEdit/",
   },
   {
     time: "June 2023 - Present",
